@@ -32,5 +32,6 @@ hi VertSplit NONE
 hi Normal NONE
 hi StatusLine guifg=#375eab
 hi StatusLineNC guifg=#e0ebf5 guibg=#375eab
+hi Search guibg=#ff9632
 
 let colors_name = "gocode"
