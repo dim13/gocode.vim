@@ -33,5 +33,6 @@ hi Normal guifg=#222222 guibg=#f5f5f5
 hi StatusLine guifg=#375eab
 hi StatusLineNC guifg=#e0ebf5 guibg=#375eab
 hi Search guibg=#ff9632
+hi Directory guifg=#375eab
 
 let colors_name = "gocode"
