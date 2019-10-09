@@ -28,8 +28,8 @@ hi Identifier NONE
 hi Title NONE
 hi MatchParen guibg=#e0ebf5
 hi VertSplit NONE
-"hi Normal guifg=#222222 guibg=#efefef
-hi Normal NONE
+hi Normal guifg=#222222 guibg=#f5f5f5
+"hi Normal NONE
 hi StatusLine guifg=#375eab
 hi StatusLineNC guifg=#e0ebf5 guibg=#375eab
 hi Search guibg=#ff9632
